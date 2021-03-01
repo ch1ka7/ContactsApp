@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Louise</first_name>
+	<last_name>Richter</last_name>
+	<phone_number>1290</phone_number>
+	<notes>Some notes</notes>
+</contact>
+<contact>
+	<first_name>Bob</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>9876</phone_number>
+	<notes>A few notes.</notes>
+</contact>
+<contact>
+	<first_name>Nurbek</first_name>
+	<last_name>Darbishev</last_name>
+	<phone_number>3211</phone_number>
+	<notes>abca</notes>
+</contact>
+<contact>
+	<first_name>Admin</first_name>
+	<last_name>Admin</last_name>
+	<phone_number>123123123</phone_number>
+	<notes>Admin</notes>
+</contact>
+</contacts>
