@@ -10,18 +10,18 @@
 	<first_name>Bob</first_name>
 	<last_name>Smith</last_name>
 	<phone_number>123456789</phone_number>
-	<notes>A few notes.</notes>
+	<notes>A few notes</notes>
 </contact>
 <contact>
 	<first_name>Jon</first_name>
 	<last_name>Jones</last_name>
 	<phone_number>1233211234</phone_number>
-	<notes>abca</notes>
+	<notes>Boss</notes>
 </contact>
 <contact>
 	<first_name>Adam</first_name>
 	<last_name>Smith</last_name>
 	<phone_number>987654321</phone_number>
-	<notes>Admin</notes>
+	<notes>Dude</notes>
 </contact>
 </contacts>
